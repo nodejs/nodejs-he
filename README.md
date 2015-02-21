@@ -1,4 +1,6 @@
 # iojs-he
+
+[![Join the chat at https://gitter.im/iojs/iojs-he](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iojs/iojs-he?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [io.js](https://iojs.org/) i18n in Hebrew(עברית).
 
 
