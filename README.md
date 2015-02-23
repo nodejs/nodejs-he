@@ -11,6 +11,8 @@
 ## Contributing
 If you want to contribute this repository, see the: [issue tracker](https://github.com/iojs/iojs-he/issues)  
 
+Please see [the website translation process file](https://github.com/iojs/website/blob/master/TRANSLATION.md#for-localization-groups) for instructions. 
+
 ## License
 [MIT](https://tldrlegal.com/license/mit-license)
 
