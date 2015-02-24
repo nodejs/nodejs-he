@@ -8,6 +8,7 @@
 - Ariel Mashraki ([@a8m](https://github.com/a8m))
 - Benjamin Gruenbaum ([benjamingr](https://github.com/benjamingr))
 - Madara Uchiha ([MadaraUchiha](https://github.com/MadaraUchiha))
+- Avner Cohen ([AvnerCohen](https://github.com/AvnerCohen))
 
 ## Contributing
 If you want to contribute this repository, see the: [issue tracker](https://github.com/iojs/iojs-he/issues)  
