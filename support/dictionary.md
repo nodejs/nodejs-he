@@ -25,6 +25,12 @@
       <td>Semantic Versioning</td> <td>תיוג סמנטי</td> <td></td>
     </tr>
     <tr>
+      <td>Major version</td> <td>גירסה מג'ורית</td> <td></td>
+    </tr>
+    <tr>
+      <td>Minor version</td> <td>גירסה מינורית</td> <td></td>
+    </tr>
+    <tr>
       <td>Open Governance</td> <td>ניהול פתוח</td> <td>* לדעתי, ממשל פחות רלוונטי במקרה הנ"ל, ולכן עדיף השימוש בניהול.</td>
     </tr>
     <tr>
@@ -39,6 +45,13 @@
     <tr>
       <td>Event Loop</td> <td>"לולאת ארועים"</td> <td></td>
     </tr>
+    <tr>
+      <td>Streams</td> <td>זרמים? נחשולים?</td> <td></td>
+    </tr>
+    <tr>
+      <td>Roadmap</td> <td>מפת דרכים</td> <td></td>
+    </tr>
+
   </tbody>
 </table>
 
