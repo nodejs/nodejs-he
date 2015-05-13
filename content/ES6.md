@@ -53,7 +53,7 @@
 
 הינך יכול לצפות ברשימה המלאה, כולל השוואה עם מנועים אחרים/מקבילים. ראה: [compat-table](https://kangax.github.io/compat-table/es6/)
 
-## איזה פיצ׳רים/תכונות מאופשרים על ידי הדלקת דגל ה״סטייג׳ינג״ --es_staging  ?
+## איזה פיצ׳רים/תכונות מאופשרים על ידי הדלקת דגל ה --es_staging  ?
 *   [Classes](https://github.com/lukehoban/es6features#classes) (strict mode only)
 *   [Object literal extensions](https://github.com/lukehoban/es6features#enhanced-object-literals)
 
